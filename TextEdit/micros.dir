@@ -1,0 +1,16 @@
+class TextEdit, interface                     ‰   ‰TextEdit.h
+    Implementation                            ‰   ‰TextEdit.cpp
+                                              ‰   ‰
+class Text, interface                         ‰   ‰Text.h
+    Implementation                            ‰   ‰Text.cpp
+Test of class Text                            ‰   ‰textTst.cpp
+                                              ‰   ‰
+class L2List, interface                       ‰   ‰L2List.h
+    Implementation                            ‰   ‰L2List.cpp
+Test of L2List                                ‰   ‰listTst.cpp
+                                              ‰   ‰
+Test the X11 keyboard                         ‰   ‰KeySym.cpp
+                                              ‰   ‰
+Makefile                                      ‰   ‰Makefile
+GWindow                                       ‰   ‰../GWindow/micros.dir
+R2Graph                                       ‰   ‰../R2Graph/R2Graph.h

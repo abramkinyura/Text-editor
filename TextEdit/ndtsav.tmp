@@ -1,0 +1,3 @@
+    virtual void onExpose(XEvent& event);
+    virtual void onButtonPress(XEvent& event);
+    void drawButton(const I2Rectangle& buttonRect, const char* text);
